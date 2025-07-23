@@ -43,7 +43,7 @@ Ideal para estudos e aprendizado prático de SQL + PHP.
 | ---------------------- | -------------------------------------------------------- |
 | `index.php`            | Página inicial com o layout principal                    |
 | `dashboard.php`        | Exibe um painel com pedidos e informações do sistema     |
-| `templates/header.php` | Cabeçalho comum para as páginas (HTML reutilizável)      |
+| `templates/header.php` | Cabeçalho padrão usado nas páginas                       |
 | `templates/footer.php` | Rodapé padrão usado nas páginas                          |
 | `process/conn.php`     | Faz a **conexão com o banco de dados MySQL**             |
 | `process/orders.php`   | Script que processa o envio e salvamento dos pedidos     |
