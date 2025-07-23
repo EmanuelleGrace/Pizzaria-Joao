@@ -1,9 +1,3 @@
-# Pizzaria-Joao
-
-Claro! Aqui está uma versão mais bonita e organizada do seu `README.md`, com emojis e estilizações de fonte em Markdown para destacar seções e facilitar a leitura:
-
----
-
 # 🍕 **Pizzaria João**
 
 Bem-vindo ao projeto **Pizzaria João**, um sistema simples de gerenciamento de pizzaria, desenvolvido com **PHP**, **MySQL** e um toque de estilo com **CSS**.
